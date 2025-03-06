@@ -38,7 +38,7 @@ const[title,settitle]=useState("Green ninja ash");
           cambia titolo
           </button>
           <p className="text-center">
-            Modifica <code>src/App.tsx</code> e salva per testare l'hot reload
+            Modifica <code>src/App.tsx</code> e salva per testare l'hot reload     
           </p>
         </div>
 
