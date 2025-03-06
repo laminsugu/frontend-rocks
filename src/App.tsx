@@ -32,7 +32,7 @@ const[title,settitle]=useState("Green ninja ash");
             Hai premuto il pulsante {count} {count === 1 ? "volta" : "volte"}
           </button>
           <button
-          className="bg-green-500 text white px-4 py-2 runded-md shadow-md cursor pointer"
+          className="bg-green-500 text white px-4 py-2 runded-md shadow-md cursor pointer "
           onClick={() => settitle("evee")}
           > 
           cambia titolo
